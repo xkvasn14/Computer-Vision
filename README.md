@@ -1,6 +1,8 @@
 ### Computer Vision
 
-<p align="center">
-<object datasrc="Computer_Vision_Project_Report.pdf" width="1000" height="1000" type='application/pdf'></object>
-<object datasrc="Computer_Vision_Project_Report.pdf" type='application/pdf'/>
-</p>
+Team project on the Airborne Optical Sectioning - AOS. The goal was to create a model which will be able to show and track personages inside a forest, pictures taken by normal and thermal camera.
+
+https://github.com/JKU-ICG/AOS/
+
+Retreived - report
+Lost - code and model
